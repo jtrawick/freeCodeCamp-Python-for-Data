@@ -1,2 +1,2 @@
 # freeCodeCamp-Python-for-Data
-freeCodeCamp Data Analysis with Python Course notebooks and files
+This repo is for notebooks and associated files of the Data Analysis Python course on freeCodeCamp.org as well as any additional work by me relating to those projects/lessons.
